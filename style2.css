@@ -21,11 +21,11 @@
     z-index: 1;
 }
 
-.navbar {
+.navbar2 {
     width: 100%;
     font-size: 15px;
     display: flex;
-    position: relative;
+    position: fixed;
     justify-content: space-between;
     z-index: 2;
     background-color: #4E0506;
